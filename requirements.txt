@@ -1,0 +1,32 @@
+
+# --- Núcleo de datos y gráficos ---
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+openpyxl>=3.1
+
+# --- Modelos estadísticos ---
+statsmodels>=0.14
+scipy>=1.11
+
+# --- Machine Learning (árboles) ---
+scikit-learn>=1.3
+xgboost>=2.0
+lightgbm>=4.1
+
+# --- Deep Learning (LSTM / GRU) ---
+tensorflow>=2.15
+
+# --- Prophet ---
+prophet>=1.1.5
+cmdstanpy>=1.2.0
+
+# --- Interpretabilidad (SHAP) ---
+shap>=0.44
+
+# --- Jupyter / VS Code ---
+jupyter>=1.0
+ipykernel>=6.29
+nbconvert>=7.16
+nbformat>=5.9
